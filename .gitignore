@@ -1,0 +1,51 @@
+
+# Android Studio will place build artifacts here
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+/build
+/test
+/.dart_tool
+# Flutter/Dart/Pub related
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+build/
+pubspec.lock
+.idea/
+.vscode/
+*.iml
+
+# iOS related
+ios/Flutter/.last_build_id
+ios/Pods
+ios/.symlinks/
+ios/Flutter/Generated.xcconfig
+
+# Android related
+android/.gradle/
+android/app/key.properties
+android/app/debug.keystore
+*.jks
+
+# Web related
+web/.dart_tool/
+web/.build/
+
+# macOS related
+macos/.dart_tool/
+macos/Flutter/ephemeral/
+
+# Linux related
+linux/flutter/ephemeral/
+
+# Windows related
+windows/flutter/ephemeral/
+
+# Other
+*.log
+*.DS_Store
+*.idea/
+*.class
