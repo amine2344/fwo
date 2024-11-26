@@ -21,7 +21,7 @@
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleVersion</key>
-	<string>4</string>
+	<string>5</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>UILaunchStoryboardName</key>
@@ -51,7 +51,7 @@
 	<string>This app needs access to your photo library to upload and manage photos.</string>
 	
 	<key>NSLocationWhenInUseUsageDescription</key>
-	<string>This app uses your location to provide location-specific features, such as locating nearby places or sharing your current location with others.</string>
+	<string>This app requires access to your location to identify the location of newly added orders.</string>
 
 	
 </dict>
